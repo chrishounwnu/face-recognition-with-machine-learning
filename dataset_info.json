@@ -1,0 +1,18 @@
+{
+    "person_1": {
+        "name": "Christophe HOUNWANOU",
+        "age": 25,
+        "gender": "Male",
+        "profession": "ML Engineer"
+    },
+    "person_2": {
+        "name": "Alice Smith",
+        "age": 30,
+        "gender": "Female",
+        "profession": "Engineer"
+    },
+    "hounwanou": {
+        "name": "Hounwanou",
+        "age": "25"
+    }
+}
